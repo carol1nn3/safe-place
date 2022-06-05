@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+  
+}
+
+div {
+ background-image: (url="https://i.pinimg.com/originals/85/11/c2/8511c2ada6a273e8a4ef0dd97b41357c.jpg")
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(0, 84, 139);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid rgb(0, 36, 241);
+  padding: 30px;
+}
