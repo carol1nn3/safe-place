@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+  font-style: verdana;
+}
+
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color:rgb(94, 150, 253);
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.flex-container div {
+  background-color: rgb(158, 203, 245);
+  width: 400px;
+  margin: 50px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  font-style: verdana;
+  border: 2px solid black;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(0, 84, 139);
+  text-align: center;
+}
+
+h3 {
+  color: rgb(0, 84, 139);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  border: 2px solid rgb(90, 112, 240);
+  padding: 30px;
+}
